@@ -7,3 +7,4 @@ Ferramentas utilizadas até o momento
 - Sass
 - Stripe
 - FaunaDB
+- Prismic
